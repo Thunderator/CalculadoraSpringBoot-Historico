@@ -31,7 +31,7 @@
     <div th:text="${resultado}"></div>
 
     <ul>
-        <li th:each="item : ${historico}" th:text="${item}"></li>
+        <li th:each="item : ${historico}" th:text="${item.descricao}"></li>
     </ul>
 </body>
 
