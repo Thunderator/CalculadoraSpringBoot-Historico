@@ -1,6 +1,6 @@
 package br.edu.usj.ads.pw.calculadorahistorico;
 
-import java.util.ArrayList;
+// import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
