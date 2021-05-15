@@ -24,7 +24,7 @@ public class CalculadoraHistorico {
         //converter para double
         Double operando1Double = Double.valueOf(operando1);
         Double operando2Double = Double.valueOf(operando2);
-        
+
         //operar
         //   verificar qual operacao eh
         Double resultado = null;
